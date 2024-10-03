@@ -60,6 +60,6 @@ public class Book {
         System.out.println("Price: $" + price);
         System.out.println("Year: " + year);
         System.out.println("Genre: " + genre);
-        System.out.println(); // Add a newline for better readability between books
+        System.out.println(); 
     }
 }
